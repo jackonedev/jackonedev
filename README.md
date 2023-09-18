@@ -7,17 +7,12 @@
 <!-- ##
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackonedev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 # 📊 GitHub Stats:
-<center>
     
     
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackonedev&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-    
-    
-</center>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackonedev&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jackonedev&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jackonedev&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jackonedev&icon=0&color=0)](https://visitcount.itsvg.in)
