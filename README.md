@@ -14,3 +14,11 @@
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=jackonedev&icon=0&color=0)](https://visitcount.itsvg.in) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Hi there, I'm Agustín Stigliano, an AI Python Developer.
+
+Thanks for your arrival! Please, take a look at
+[My \[NEW\] CV Agent](https://agentcv-bcaxembqfjachefy.brazilsouth-01.azurewebsites.net/) and feel free to reach out to me.
+
+You can ask for my contact information from the agent, lol
+
+Good luck to you!
