@@ -16,7 +16,7 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=jackonedev&icon=0&color=0)](https://visitcount.itsvg.in) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-Hi there, I'm Agustín Stigliano, a Python Developer with experience with Data Science, Machine Learning, and Generative AI solutions.
+Hi there, I'm Agustín Stigliano, a Python Developer with experience in Data Science, Machine Learning, and Generative AI solutions.
 
 Thanks for your arrival! Please, take a look at
 <a href="https://agentcv-bcaxembqfjachefy.brazilsouth-01.azurewebsites.net/" target="_blank">My [NEW] CV Agent</a> and feel free to reach out to me.
