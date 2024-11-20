@@ -10,15 +10,17 @@
 
 <!-- # 🏆 GitHub Trophies-->
 <!-- ![](https://github-profile-trophy.vercel.app/?username=jackonedev&theme=flat&no-frame=false&no-bg=true&margin-w=4) -->
+<!-- Thanks for your arrival! Please, take a look at [My \[NEW\] CV Agent](https://agentcv-bcaxembqfjachefy.brazilsouth-01.azurewebsites.net/) and feel free to reach out to me. -->
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=jackonedev&icon=0&color=0)](https://visitcount.itsvg.in) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-Hi there, I'm Agustín Stigliano, an AI Python Developer.
+
+Hi there, I'm Agustín Stigliano, a Python Developer with experience with Data Science, Machine Learning, and Generative AI solutions.
 
 Thanks for your arrival! Please, take a look at
-[My \[NEW\] CV Agent](https://agentcv-bcaxembqfjachefy.brazilsouth-01.azurewebsites.net/) and feel free to reach out to me.
+<a href="https://agentcv-bcaxembqfjachefy.brazilsouth-01.azurewebsites.net/" target="_blank">My [NEW] CV Agent</a> and feel free to reach out to me.
 
 You can ask for my contact information from the agent, lol
 
-Good luck to you!
+Best of luck!
