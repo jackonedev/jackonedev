@@ -18,8 +18,12 @@
 
 Hi there, I'm Agustín Stigliano, a Python Developer with experience in Data Science, Machine Learning, and Generative AI solutions.
 
-Thanks for your arrival! Please, take a look at
+Thanks for your arrival!
+
+Please, take a look at
 <a href="https://agentcv-bcaxembqfjachefy.brazilsouth-01.azurewebsites.net/" target="_blank">My [NEW] CV Agent</a> and feel free to reach out to me.
+
+I invite you to review my latest written article related to <a href="https://www.linkedin.com/pulse/magic-methods-design-patterns-python-agustin-federico-stigliano-gpttf" target="_blank">Python design patterns and Magic Methods</a>
 
 You can ask for my contact information from the agent, lol
 
